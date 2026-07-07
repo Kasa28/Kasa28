@@ -26,3 +26,7 @@ I'm a developer with frontend experience, currently learning backend development
 ## 📚 Currently learning
 
 Backend development · Python · SQL · APIs · Databases · Server logic
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Kasa28/Kasa28/blob/output/github-contribution-grid-snake-dark.svg)
