@@ -23,9 +23,6 @@ I'm a developer with frontend experience and backend development.
 ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
 
-## 📚 Currently learning
-
-Backend development · Python · SQL · APIs · Databases · Server logic
 
 ## 🐍 Contribution Snake
 
