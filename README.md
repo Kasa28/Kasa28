@@ -1,6 +1,6 @@
 # Hi, I'm Kseniya 👋
 
-I'm a developer with frontend experience, currently learning backend development.
+I'm a developer with frontend experience and backend development.
 
 ## 🌸 About me
 
